@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumitk99
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Telegram : @Sumitk999
 

@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sumitk99
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Backend Development in Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Telegram : @Sumitk999
 

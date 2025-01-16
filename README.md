@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumitk99
-- 🌱 I’m currently learning Backend Development in Golang
+-  I am focused on backend development using Golang, specializing in the Gin framework for building scalable, microservices architecture -based applications. My work incorporates advanced technologies such as gRPC, WebSockets and Elasticsearch for implementing high-performance, search-driven systems.
 - 💞️ I’m looking to collaborate on Golang Projects
 - 📫 Reach out to me on [Linkedin : @Sumitk999](https://www.linkedin.com/in/sumitk999/)
 
